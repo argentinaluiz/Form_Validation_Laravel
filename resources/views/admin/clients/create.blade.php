@@ -27,7 +27,7 @@
 
 		<div class="form-group">
 			<label for="marital-status">Estado civil</label>
-			<select class="form-control" id="marital-status" name="marital-status">
+			<select class="form-control" id="marital-status" name="marital_status">
 				<option value="">Selecione o estaddo civil</option>
 				<option value="1">Solteiro</option>
 				<option value="2">Casado</option>
